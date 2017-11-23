@@ -1,5 +1,5 @@
 /*
- * sudoku.c: A simple command-line Sudoku solver in C.
+ * sudoku.cpp: A simple command-line Sudoku solver in C.
  * 
  * Created by Minbiao Han & Jianfeng Chi on 11/22/17.
  * Copyright © 2017 Minbiao Han. All rights reserved.
