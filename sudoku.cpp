@@ -70,11 +70,7 @@ void restore_candidate(candidates *cp, int num)
 	(*cp)[num] = 0;
 }
 
-/*
- *
- * CELLS AND BOARDS.
- *
- */
+//cells and boards
 
 /*
  * A cell has a flag to indicate if its value has been set or not, the cell
